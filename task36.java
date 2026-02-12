@@ -11,7 +11,8 @@ public class task36 {
             colors[i]=sc.nextLine();
         }
         for(int i=0;i<n;i++){
-              System.out.println(colors[i]);
+            System.out.println("Colors you entered: ");
+            System.out.println(colors[i]);
         }
         sc.close();
      }
