@@ -9,7 +9,7 @@ public class task6 {
         {
             res+=i;
         }
-        System.out.println("Result:"+res);
+        System.out.println("Result"+res);
         sc.close();
     }
     
