@@ -18,7 +18,8 @@ public class task45 {
          System.out.println("Enter task: ");
          tasks.add(sc.nextLine());
       }
-     
+     System.out.println("---TO DO LIST---");
+     System.out.println("");
      }
 }
 
