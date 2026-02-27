@@ -8,7 +8,7 @@ public class task45 {
       sc.nextLine();
       ArrayList<String> mylist = getTasks(num, sc);
       updateTask(sc, mylist);
-     
+      removeTask(sc,mylist);
       sc.close();
    }
 
@@ -44,5 +44,16 @@ public class task45 {
          System.out.println(i + " --> " + tasks.get(i));
       }
    }
+    public static void removeTask(Scanner sc, ArrayList<String> tasks) {
+      System.out.println("Enter index to remove: ");
+      int index = sc.nextInt();
+      tasks.remove(index);
+     System.out.println("Task removed successfully");
+      System.out.println("---TO DO LIST---");
+      for (int i = 0; i < tasks.size(); i++) {
+         System.out.println(i + " --> " + tasks.get(i));
+      }
+   }
+   
 
 }
