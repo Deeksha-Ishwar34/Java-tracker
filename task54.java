@@ -15,7 +15,7 @@ public class task54 {
                 sec_largest = arr[i];
             }
         }
-        System.out.println("Second largest element "+sec_largest);
+        System.out.println(sec_largest);
 
     }
 
