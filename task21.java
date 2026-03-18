@@ -11,7 +11,7 @@ public class task21{
             System.out.println("The number is Even ");
         }
         else{
-            System.out.println("The number is not Even");
+            System.out.println("The number is not Even ");
         }
          sc.close();
     }
