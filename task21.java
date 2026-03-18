@@ -8,7 +8,7 @@ public class task21{
         System.out.println("The Sum:- "+sum);
         boolean even=isEven(sum);
         if(even){
-            System.out.println("The number is Even");
+            System.out.println("The number is Even ");
         }
         else{
             System.out.println("The number is not Even");
