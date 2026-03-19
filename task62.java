@@ -1,6 +1,6 @@
 public class task62 {
     public static void main(String[] args) {
-        int[] arr = {1};
+        int[] arr = {1,4,5,6};
         if(arr.length==0){
             System.out.println("Array is empty");
         }
@@ -15,7 +15,7 @@ public class task62 {
     public static void checking(int[] arr){
         boolean sorted=false;
         for(int i=0;i<arr.length-1;i++){
-            if(arr[i]<arr[i+1]){
+            if(arr[i]<=arr[i+1]){
                 sorted=true;
         }
             else{
@@ -23,6 +23,7 @@ public class task62 {
                 break;
             }
         }
-        System.out.println(sorted);
+         System.out.println(sorted);
+       
     }
 }
