@@ -18,6 +18,7 @@ public class task64 {
                 odd++;
             }
         }
-        System.out.println("Even count");
+        System.out.println("Even count"+even);
+        System.out.println("Odd count"+odd);
     }
 }
