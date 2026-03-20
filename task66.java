@@ -10,8 +10,8 @@ public class task66 {
             sum=sum+arr[i];
         }
          avg= (double) sum/arr.length;
-         System.out.println("Sum="+sum);
-          System.out.println("Average="+avg);
+         System.out.println("Sum = "+sum);
+          System.out.println("Average = "+avg);
     }
       
 }
