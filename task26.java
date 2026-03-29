@@ -21,7 +21,7 @@ public static int getNum1(Scanner sc){
     return sc.nextInt();
 }
 public static int getNum2(Scanner sc){
-    System.out.println("Enter Second number: ");
+    System.out.println("Enter Second number:- ");
     return sc.nextInt();
 }
 public static int getChoice(Scanner sc){
