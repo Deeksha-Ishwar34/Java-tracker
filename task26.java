@@ -17,7 +17,7 @@ public static void op_list(){
     System.out.println("3.Multiplication");
 }
 public static int getNum1(Scanner sc){
-    System.out.println("Enter first number: ");
+    System.out.println("Enter first number:- ");
     return sc.nextInt();
 }
 public static int getNum2(Scanner sc){
