@@ -25,6 +25,6 @@ public class task28 {
         return principal*time*rate/100;
     }
     public static void display(int SI){
-        System.out.println("Simple Interest: "+SI);
+        System.out.println("Simple Interest:-"+SI);
     }
 }
