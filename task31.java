@@ -5,7 +5,7 @@ public class task31 {
         Scanner sc = new Scanner(System.in);
         while (true) {
             display(sc);
-            System.out.println("Enter choice");
+            System.out.println("Enter choice:-");
             int choice = sc.nextInt();
         
         switch (choice) {
