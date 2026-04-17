@@ -67,7 +67,7 @@ public class task32 {
             balance -= amount;
             System.out.println("Please collect your cash");
         } else {
-            System.out.println("Insufficient balance or invalid amount");
+            System.out.println("Insufficient balance or invalid amount ");
         }
         return balance;
     }
