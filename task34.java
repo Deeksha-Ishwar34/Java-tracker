@@ -49,7 +49,7 @@ public class task34 {
                 odd++;
             }
         }
-        System.out.println("Even " + even);
-        System.out.println("Odd " + odd);
+        System.out.println("Even" + even);
+        System.out.println("Odd" + odd);
     }
 }
