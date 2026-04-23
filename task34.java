@@ -18,7 +18,7 @@ public class task34 {
     public static int[] getNums(Scanner sc, int n) {
         int[] numbers = new int[n];
         for (int i = 0; i < n; i++) {
-            System.out.println("Enter number" + (i + 1));
+            System.out.println("Enter number " + (i + 1));
             numbers[i] = sc.nextInt();
         }
         return numbers;
