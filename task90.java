@@ -1,7 +1,7 @@
 import java.util.*;
 public class task90 {
     public static void main(String[] args) {
-        int[] arr={7, -3,1, 4, 8};
+        int[] arr={-7, -3,1, 4, 8};
         Sorted(arr);
     }
     public static void Sorted(int[] arr){
