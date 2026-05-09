@@ -9,7 +9,7 @@ public class task37 {
    }
 
    public static int getN(Scanner sc) {
-      System.out.println("How many colors do you want to enter? ");
+      System.out.println("How many colors do you want to enter?");
       return sc.nextInt();
 
    }
