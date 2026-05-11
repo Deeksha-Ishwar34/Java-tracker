@@ -1,3 +1,4 @@
+
 public class task95 {
     public static void main(String[] args) {
         int a=3;
