@@ -63,7 +63,7 @@ public class task40 {
        for(int i=0;i<nums.length;i++){
         if(nums[i]==search){
             found=true;
-             System.out.println("Number found at index: "+i);
+             System.out.println(" Number found at index: "+i);
              break;
         }
        }
