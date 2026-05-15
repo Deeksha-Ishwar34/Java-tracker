@@ -1,8 +1,7 @@
 public class task99 {
     public static void main(String[] args) {
-        String s="programming";
-       StringBuilder sb=new StringBuilder(s);
-        sb.reverse();
-        System.out.println(sb);
+      String s="Programming";
+      s=s.toLowerCase();
+      System.out.println(s);
     }
 }
