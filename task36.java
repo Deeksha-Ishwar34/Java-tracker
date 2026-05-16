@@ -7,7 +7,7 @@ public class task36 {
         sc.nextLine();
         String[] colors=new String[n];
         for(int i=0;i<n;i++){
-            System.out.printf("Enter Color %d",(i+1));
+            System.out.printf("Enter Color %d ",(i+1));
             colors[i]=sc.nextLine();
         }
          System.out.println("Colors you entered: ");
