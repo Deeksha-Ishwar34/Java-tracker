@@ -25,7 +25,7 @@ public class task37 {
    }
 
    public static void display(String[] colors, int n) {
-      System.out.println("Colors u entered");
+      System.out.println("Colors u entered ");
       for (int i = 0; i < n; i++) {
          System.out.println(colors[i]);
       }
