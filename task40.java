@@ -12,7 +12,7 @@ public class task40 {
          sc.close();
      }
       public static int getSize(Scanner sc) {
-        System.out.println("Enter size: ");
+        System.out.println("Enter size:- ");
         return sc.nextInt();
     }
     
