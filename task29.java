@@ -9,7 +9,7 @@ public class task29 {
     }
 
     public static int getAge(Scanner sc) {
-        System.out.println("Enter your age: ");
+        System.out.println("Enter your age:- ");
         return sc.nextInt();
     }
 
