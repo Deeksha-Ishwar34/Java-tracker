@@ -18,7 +18,7 @@ public class task41 {
     }
 
     public static int getSize(Scanner sc){
-        System.out.print("How many names:- ");
+        System.out.print("How many names:-");
         return sc.nextInt();
     }
 
