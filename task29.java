@@ -11,7 +11,6 @@ public class task29 {
         System.out.println("Enter your age:- ");
         return sc.nextInt();
     }
-
     public static String checkEligibility(int age) {
         if (age >= 18) {
             return "Eligible to vote";
