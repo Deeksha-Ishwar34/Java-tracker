@@ -7,7 +7,6 @@ public class task29 {
         System.out.println(eligibility);
         sc.close();
     }
-
     public static int getAge(Scanner sc) {
         System.out.println("Enter your age:- ");
         return sc.nextInt();
