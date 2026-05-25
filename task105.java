@@ -12,7 +12,17 @@ public class task105 {
                 winsum++;
             }
         }
-       
+        maxsum = winsum;
+       for(int j=k;j<s.length();j++){
+       if(isVowel(s.charAt(j))){
+                winsum++;
+            }
+            if(isVowel(s.charAt(j-k))){
+                winsum--;
+            }
+            maxsum = Math.max(maxsum, winsum);
+       }
+       System.out.println(maxsum);
     }
     public static boolean isVowel(char ch){
         if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'){
