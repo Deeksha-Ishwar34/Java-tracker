@@ -15,7 +15,7 @@ public class task29 {
         if (age >= 18) {
             return "Eligible to vote ";
         } else {
-            return "Not Eligible to vote";
+            return "Not Eligible to vote ";
         }
     }
 
