@@ -13,7 +13,7 @@ public class task29 {
     }
     public static String checkEligibility(int age) {
         if (age >= 18) {
-            return "Eligible to vote";
+            return "Eligible to vote ";
         } else {
             return "Not Eligible to vote";
         }
