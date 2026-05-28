@@ -24,8 +24,6 @@ public class task30 {
     else {
         return (100 * 1) + (100 * 2) + ((units - 200) * 3);
     }
-}
-
-        
+}   
     }
 
