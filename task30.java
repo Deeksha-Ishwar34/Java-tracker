@@ -7,7 +7,7 @@ public class task30 {
         System.out.println("Total bill:- "+bill);
     }
     public static int getUnits(Scanner sc) {
-        System.out.println("Enter Units:-");
+        System.out.println("Enter Units:- ");
         return sc.nextInt();
     }
     public static int calcbill(int units)
