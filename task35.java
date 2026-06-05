@@ -8,7 +8,7 @@ public class task35 {
         colors[1]=sc.nextLine();
         colors[2]=sc.nextLine();
         for(int i =0;i<colors.length;i++){
-            System.out.println("Your Fav colors are:  ");
+            System.out.println("Your Fav colors are");
             System.out.println(colors[i]);
         }
       sc.close(); 
