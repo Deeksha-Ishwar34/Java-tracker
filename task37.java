@@ -13,7 +13,6 @@ public class task37 {
       return sc.nextInt();
 
    }
-
    public static String[] getColors(int n, Scanner sc) {
       String[] colors = new String[n];
       sc.nextLine();
@@ -23,7 +22,6 @@ public class task37 {
       }
       return colors;
    }
-
    public static void display(String[] colors, int n) {
       System.out.println("Colors u entered ");
       for (int i = 0; i < n; i++) {
