@@ -18,7 +18,7 @@ public class task37 {
       sc.nextLine();
       for (int i = 0; i < n; i++) {
          System.out.printf("Enter Color %d",(i + 1));
-         colors[i] =sc.nextLine();
+         colors[i]=sc.nextLine();
       }
       return colors;
    }
