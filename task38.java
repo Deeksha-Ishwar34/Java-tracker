@@ -8,7 +8,7 @@ public class task38{
         sc.close();
      }
      public static int getSize(Scanner sc){
-        System.out.println("Enter size: ");
+        System.out.println("Enter size:");
         return sc.nextInt();
      }
      public static int[] getNums(Scanner sc,int size){
