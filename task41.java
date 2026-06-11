@@ -28,7 +28,6 @@ public class task41 {
             names.add(name);
         }
     }
-
     public static void displayNames(ArrayList<String> names){
         System.out.println("\nNames: " + names);
         System.out.println("Total names: " + names.size());
