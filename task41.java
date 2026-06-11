@@ -21,7 +21,6 @@ public class task41 {
         System.out.print("How many names:- ");
         return sc.nextInt();
     }
-
     public static void getNames(int n, Scanner sc, ArrayList<String> names){
         for(int i = 0; i < n; i++){
             System.out.print("Enter name " + (i+1) + ": ");
