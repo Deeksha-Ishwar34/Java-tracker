@@ -12,8 +12,8 @@ public class task109 {
     public static void sumofnums(int[] arr,int indx1,int indx2){
         int sum=0;
         for(int i=indx1;i<=indx2;i++){
-            arr[i]+=sum;
+           sum+=arr[i];
         }
-       
+       System.out.printf("Sum of index %d to %d is %d",indx1,indx2,sum);
     }
 }
