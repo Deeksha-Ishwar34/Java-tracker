@@ -31,7 +31,6 @@ public class task41 {
         System.out.println("\nNames: " + names);
         System.out.println("Total names: " + names.size());
     }
-
     public static void findLongestName(ArrayList<String> names){
         String longest = names.get(0);
 
