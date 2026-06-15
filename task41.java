@@ -39,7 +39,6 @@ public class task41 {
                 longest = name;
             }
         }
-
         System.out.println("Longest name: " + longest);
     }
 }
