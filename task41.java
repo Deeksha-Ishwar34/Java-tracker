@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
 public class task41 {
     public static void main(String[] args) {
 
