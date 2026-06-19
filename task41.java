@@ -6,7 +6,6 @@ public class task41 {
         ArrayList<String> names = new ArrayList<>();
         int n = getSize(sc);
         sc.nextLine();  
-
         getNames(n, sc, names);
         displayNames(names);
         findLongestName(names);
