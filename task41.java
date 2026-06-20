@@ -28,7 +28,6 @@ public class task41 {
     }
     public static void findLongestName(ArrayList<String> names){
         String longest = names.get(0);
-
         for(String name : names){
             if(name.length() > longest.length()){
                 longest = name;
