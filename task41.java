@@ -9,7 +9,6 @@ public class task41 {
         getNames(n, sc, names);
         displayNames(names);
         findLongestName(names);
-
         sc.close();
     }
     public static int getSize(Scanner sc){
