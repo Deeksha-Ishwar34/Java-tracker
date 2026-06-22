@@ -59,7 +59,7 @@ public class task42 {
             }
         }
         System.out.println("After removing failed students:");
-        System.out.println("Marks:-" + list);
+        System.out.println("Marks" + list);
         calcavg(list);
     }
 }
