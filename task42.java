@@ -31,7 +31,6 @@ public class task42 {
             System.out.println(num);
         }
     }
-
     public static void findhighest(ArrayList<Integer> list) {
         int highest = list.get(0);
         for (int num : list) {
