@@ -41,7 +41,6 @@ public class task42 {
         }
         System.out.println("Highest: " + highest);
     }
-
     public static void calcavg(ArrayList<Integer> list) {
         int sum = 0;
         for (int num : list) {
