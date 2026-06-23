@@ -16,7 +16,6 @@ public class task42 {
         System.out.println("Enter number of students: ");
         return sc.nextInt();
     }
-
     public static ArrayList<Integer> getMarks(Scanner sc, int n) {
         ArrayList<Integer> list = new ArrayList<>();
         for (int i = 0; i < n; i++) {
