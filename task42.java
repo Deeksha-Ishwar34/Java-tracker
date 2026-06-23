@@ -11,7 +11,6 @@ public class task42 {
         removeFailed(list);
         sc.close();
     }
-
     public static int getN(Scanner sc) {
         System.out.println("Enter number of students: ");
         return sc.nextInt();
