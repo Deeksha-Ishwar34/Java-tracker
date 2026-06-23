@@ -25,7 +25,6 @@ public class task42 {
         }
         return list;
     }
-
     public static void display(ArrayList<Integer> list) {
         for (int num : list) {
             System.out.println(num);
