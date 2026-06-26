@@ -5,7 +5,7 @@ public class task44 {
         Scanner sc = new Scanner(System.in);
         HashMap<String,Integer> marks=new HashMap<>();
         marks.put("Deeksha",99);
-        marks.put("Ria ",55);
+        marks.put("Ria",55);
         marks.put("Evita",65);
         marks.put("Alaina",73);
         System.out.println("Student's names List");
