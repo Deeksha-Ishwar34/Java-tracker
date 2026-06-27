@@ -7,8 +7,8 @@ public class task45 {
       int num = getNum(sc);
       sc.nextLine();
       ArrayList<String> mylist = getTasks(num, sc);
-      updateTask(sc, mylist);
-      removeTask(sc,mylist);
+      choice(sc,mylist);
+      
       sc.close();
    }
 
@@ -53,6 +53,16 @@ public class task45 {
       for (int i = 0; i < tasks.size(); i++) {
          System.out.println(i + " --> " + tasks.get(i));
       }
+   }
+   public static void choice(Scanner sc,ArrayList<String> tasks){
+      System.out.println("1.Update\n2.Remove\nEnter your choie");
+     int choice=sc.nextInt();
+     if(choice==1){
+      updateTask(sc, tasks);
+     }
+     else if(choice==2){
+      removeTask(sc, tasks);
+     }
    }
    
 
