@@ -7,7 +7,6 @@ public class task45 {
       sc.nextLine();
       ArrayList<String> mylist = getTasks(num, sc);
       choice(sc,mylist);
-
       sc.close();
    }
 
