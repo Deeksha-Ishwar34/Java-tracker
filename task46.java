@@ -14,7 +14,7 @@ class mobile{
         this.price=price;
     }
     void display(){
-        System.out.println("Mobile brand "+brand+"price "+price);
+        System.out.println("Mobile brand "+ brand+"price "+price);
     }
 }
 
