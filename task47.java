@@ -27,5 +27,5 @@ class rectangle{
          int perimeter=2*(length+width);
          System.out.println(" perimeter of rectangle "+perimeter);
       }
-     }
+}
 
