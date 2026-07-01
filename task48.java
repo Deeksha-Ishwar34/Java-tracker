@@ -31,7 +31,6 @@ public class task48 {
      }
 }
 class Student {
-
     String name;
     int rollNo;
     double marks;
