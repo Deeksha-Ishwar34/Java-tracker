@@ -29,7 +29,6 @@ public class task48 {
         }
         return mylist;
      }
-
 }
 class Student {
 
