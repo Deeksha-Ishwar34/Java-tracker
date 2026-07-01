@@ -34,7 +34,6 @@ class Student {
     String name;
     int rollNo;
     double marks;
-
     Student(String name, int rollNo, double marks) {
         this.name = name;
         this.rollNo = rollNo;
