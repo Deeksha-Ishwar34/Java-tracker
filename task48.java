@@ -39,7 +39,6 @@ class Student {
         this.rollNo = rollNo;
         this.marks = marks;
     }
-
     void display() {
         System.out.println("Name: " + name +
                            " | Roll No: " + rollNo +
