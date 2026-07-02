@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class task48 {
      public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int num= getNum(sc);
+        int num = getNum(sc);
         sc.nextLine();
         ArrayList<Student> mylist=getDetails(num,sc);
        for(Student s:mylist){
