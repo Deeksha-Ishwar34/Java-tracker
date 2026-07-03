@@ -8,6 +8,6 @@ public class task49 {
         int num2=sc.nextInt();
         int ans=num1+num2;
         System.out.println("After adding:- "+ans);
-        
+        sc.close();
     }
 }
