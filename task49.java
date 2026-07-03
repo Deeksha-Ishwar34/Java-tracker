@@ -7,7 +7,7 @@ public class task49 {
         System.out.println("Enter second number: ");
         int num2=sc.nextInt();
         int ans=num1+num2;
-        System.out.println("After adding:- "+ans);
+        System.out.println("After adding:- "+ ans);
         sc.close();
     }
 }
