@@ -4,7 +4,7 @@ public class task49 {
        Scanner sc = new Scanner(System.in);
         System.out.println("Enter first number: ");
         int num1=sc.nextInt();
-        System.out.println("Enter second number:-");
+        System.out.println("Enter second number:- ");
         int num2=sc.nextInt();
         int ans=num1+num2;
         System.out.println("After adding:- "+ ans);
