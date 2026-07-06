@@ -42,6 +42,6 @@ public class task50 {
                 low=array[i];
             }
         }
-        System.out.println("Lowest marks= "+ low);
+        System.out.println("Lowest marks:"+ low);
     }
 }
