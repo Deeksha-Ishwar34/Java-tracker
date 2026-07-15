@@ -14,6 +14,5 @@ public class task55 {
         }
         System.out.println(second);
 
-
     }
 }
