@@ -5,8 +5,7 @@ public class task57 {
             System.out.println("Array is empty");
             return;
         } 
-            smallLarge(arr);
-        
+            smallLarge(arr); 
     }
 
     public static void smallLarge(int[] arr) {
