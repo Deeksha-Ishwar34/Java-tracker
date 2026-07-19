@@ -1,6 +1,6 @@
 public class task57 {
     public static void main(String[] args) {
-        int[] arr = {3, 5, 8, 6, 4, 9 };
+        int[] arr = {3,5, 8, 6, 4, 9 };
         if (arr.length == 0) {
             System.out.println("Array is empty");
             return;
