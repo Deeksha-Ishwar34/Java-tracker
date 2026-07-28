@@ -3,7 +3,6 @@ public class task58 {
         int[] arr = { 1, 3, 4, 6, 1, 3, 4, 9, 6, 6 };
         freq(arr);
     }
-
     public static void freq(int[] arr) {
         boolean[] visited = new boolean[arr.length];
         for (int i = 0; i < arr.length; i++) {
