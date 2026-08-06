@@ -8,7 +8,6 @@ public class task62 {
         } else {
             checking(arr);
         }
-
     }
     public static void checking(int[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {
