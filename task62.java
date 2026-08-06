@@ -19,6 +19,5 @@ public class task62 {
             }
         }
         System.out.println(true);
-
     }
 }
