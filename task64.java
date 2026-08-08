@@ -1,7 +1,7 @@
 public class task64 {
     public static void main(String[] args) {
         int[] arr = {4, 6, 7, 9, 1, 67, 54 };
-        if (arr.length == 0) {
+        if(arr.length == 0) {
             System.out.println("Array is empty");
             return;
         }
