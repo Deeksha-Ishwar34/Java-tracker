@@ -1,10 +1,14 @@
 public class task64 {
     public static void main(String[] args) {
-        int[] arr = { 4, 6, 7, 9, 1, 67, 54 };
+        int[] arr = {4, 6, 7, 9, 1, 67, 54 };
         if (arr.length == 0) {
-            System.out.println("Arrayt is empty");
+            System.out.println("Array is empty");
+            return;
         }
-        even_odd_check(arr);
+        else{
+             even_odd_check(arr);
+        }
+       
     }
 
     public static void even_odd_check(int[] arr) {
@@ -18,7 +22,7 @@ public class task64 {
                 odd++;
             }
         }
-        System.out.println("Even count"+even);
-        System.out.println("Odd count"+odd);
+        System.out.println("Even count ="+even);
+        System.out.println("Odd count ="+odd);
     }
 }
