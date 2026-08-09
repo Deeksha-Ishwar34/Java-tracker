@@ -25,5 +25,6 @@ public class task65 {
         }
         System.out.println("No unique elements");
         } 
+        
     }
 
