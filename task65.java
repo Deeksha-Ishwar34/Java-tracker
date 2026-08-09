@@ -11,7 +11,7 @@ public class task65 {
     }
     public static void find_unique(int[] arr){
         
-        for (int i = 1; i <=arr.length-1; i++) {
+        for (int i = 0; i <=arr.length-1; i++) {
             int count=0;
            for(int j=0;j<=arr.length-1;j++){
             if(arr[i]==arr[j]){
@@ -20,9 +20,10 @@ public class task65 {
            }
            if(count==1){
             System.out.println(arr[i]);
+            return;
         }
         }
-        
-       
+        System.out.println("No unique elements");
+        } 
     }
-}
+
