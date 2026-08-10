@@ -23,8 +23,7 @@ public class task65 {
             return;
         }
         }
-        System.out.println("No unique elements");
-        } 
-        
+        System.out.println("No unique elements ");
+        }    
     }
 
