@@ -7,7 +7,6 @@ public class task66 {
         } else {
             calcSum_Avg(arr);
         }
-
     }
 
     public static void calcSum_Avg(int[] arr) {
