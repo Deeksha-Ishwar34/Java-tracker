@@ -18,5 +18,4 @@ public class task66 {
         System.out.println("Sum = " + sum);
         System.out.println("Average = " + avg);
     }
-
 }
