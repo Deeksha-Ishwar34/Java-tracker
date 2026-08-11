@@ -8,7 +8,6 @@ public class task66 {
             calcSum_Avg(arr);
         }
     }
-
     public static void calcSum_Avg(int[] arr) {
         int sum = 0;
         double avg = 0;
