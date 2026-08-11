@@ -3,6 +3,7 @@ public class task66 {
         int[] arr = { 1, 2, 3, 4, 5 };
         if (arr.length == 0) {
             System.out.println("Array is empty");
+            return;
         } else {
             calcSum_Avg(arr);
         }
