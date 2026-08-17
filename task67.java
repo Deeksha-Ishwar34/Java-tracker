@@ -8,7 +8,6 @@ public class task67 {
             calcFreq(arr);
         }
     }
-
     public static void calcFreq(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             int count = 0;
