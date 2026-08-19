@@ -17,7 +17,6 @@ public class task67 {
                 }
             }
             System.out.printf("%d appears %d times", arr[i], count);   
-           
             System.out.println();
         }
     }
