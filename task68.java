@@ -1,7 +1,12 @@
 public class task68 {
     public static void main(String[] args) {
         int[] arr= {1, 2, 3, 4, 6, 5};
-        sum(arr);
+         if (arr.length == 0) {
+            System.out.println("Array is empty");
+            return;
+        } else {
+            sum(arr);
+        }
     }
     public static void sum(int[] arr){
         int sum=0;
