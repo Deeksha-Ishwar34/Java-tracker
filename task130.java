@@ -18,6 +18,5 @@ public class task130 {
                 }
         }
          System.out.println(count);
-       
      }
 }
