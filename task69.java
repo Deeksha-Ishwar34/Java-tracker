@@ -1,6 +1,6 @@
 public class task69 {
     public static void main(String[] args) {
-        int[] arr= {3,7,1, 9, 4, 6};
+        int[] arr= {3,7,1,9,4,6};
          if (arr.length == 0) {
             System.out.println("Array is empty");
             return;
