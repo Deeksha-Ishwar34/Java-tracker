@@ -19,6 +19,5 @@ public class task70 {
                 left++;
             }
         }
-    }
-    
+    } 
 }
