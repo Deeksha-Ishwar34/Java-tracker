@@ -9,7 +9,7 @@ public class task70 {
         int right=arr.length-1;
         while(left<right){
             if(arr[left]+arr[right]==target){
-                System.out.printf("%d %d",left,right);
+                System.out.printf("%d and %d",left,right);
                 return;
             }
             else if(arr[left]+arr[right]>target){
