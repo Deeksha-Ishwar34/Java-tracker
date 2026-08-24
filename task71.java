@@ -8,4 +8,5 @@ public class task71 {
         }
         System.out.println(mapp);
 }
+
 }
