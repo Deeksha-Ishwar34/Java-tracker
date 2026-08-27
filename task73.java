@@ -13,7 +13,6 @@ public class task73 {
             }
         }
         System.out.println(slow+1);
-        System.out.println(Arrays.toString(arr));
-        
+        System.out.println(Arrays.toString(arr));  
     }
 }
