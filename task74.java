@@ -6,7 +6,7 @@ public class task74 {
         char[] s1=s.toCharArray();
         System.out.println(s1[0]);
         sb.setCharAt(0, 't');
-        sb.setCharAt(1, 'i');
+        sb.setCharAt(1, 'e');
         System.out.println(sb);
     }
 }
