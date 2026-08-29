@@ -5,7 +5,8 @@ public class task75 {
         System.out.println(s.trim());
         System.out.println(s.length());
         System.out.println(s.toLowerCase());
-        System.out.println(s.toCharArray());
+        System.out.println(s.toUpperCase());
+       
         
     }
 }
