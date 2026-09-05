@@ -1,6 +1,6 @@
 public class task79 {
     public static void main(String[] args) {
-        int[] arr = {2,1,0,0,41,12,0};
+        int[] arr = {0,2,1,0,0,41,12,0};
         move(arr);
     }
     public static void move(int[] arr) {
