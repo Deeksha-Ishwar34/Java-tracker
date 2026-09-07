@@ -1,7 +1,7 @@
 public class task80 {
     public static void main(String[] args) {
         int[] arr = {1,1,2,3,4};
-        int target = 5;
+        int target= 5;
         uni(arr, target);
     }
     public static void uni(int[] arr,int target){
