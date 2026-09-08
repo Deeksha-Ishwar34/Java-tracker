@@ -7,7 +7,7 @@ public class task80 {
     public static void uni(int[] arr,int target){
     int left = 0;
     int right = arr.length - 1;
-    while(left < right){
+    while(left<right){
         int sum=arr[left]+arr[right];
         if(sum==target){
             System.out.printf("(%d %d)",arr[left],arr[right]);
