@@ -19,7 +19,6 @@ public class task81 {
             else{
                 r--;
             }
-        }
-        
+        }   
     }
 }
