@@ -1,6 +1,6 @@
 public class task84 {
     public static void main(String[] args) {
-        int[] arr={1,2,3,4, 5};
+        int[] arr={1,2,3,4,5};
         reverse(arr);
     }
     public static void reverse(int[] arr){
