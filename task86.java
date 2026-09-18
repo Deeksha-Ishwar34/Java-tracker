@@ -4,7 +4,6 @@ public class task86 {
         int target = 9;
         pair(arr, target);
     }
-
     public static void pair(int[] arr, int target) {
         for (int l = 0; l < arr.length - 2; l++) {
             int m = l + 1;
