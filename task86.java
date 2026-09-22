@@ -8,7 +8,6 @@ public class task86 {
         for (int l = 0; l < arr.length - 2; l++) {
             int m = l + 1;
             int r = arr.length - 1;
-
             while (m < r) {
                 int sum = arr[l] + arr[m] + arr[r];
 
