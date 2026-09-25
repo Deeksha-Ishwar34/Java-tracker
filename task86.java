@@ -10,7 +10,6 @@ public class task86 {
             int r = arr.length - 1;
             while (m<r) {
                 int sum = arr[l] + arr[m] + arr[r];
-
                 if (sum == target) {
                     System.out.printf("%d,%d,%d\n", arr[l], arr[m], arr[r]);
                     m++;
