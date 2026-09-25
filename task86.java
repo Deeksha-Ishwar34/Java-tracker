@@ -2,7 +2,7 @@ public class task86 {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5};
         int target = 9;
-        pair(arr, target);
+        pair(arr,target);
     }
     public static void pair(int[] arr, int target) {
         for (int l = 0; l < arr.length - 2; l++) {
