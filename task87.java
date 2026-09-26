@@ -8,8 +8,8 @@ public class task87 {
         int i=0;
         for(int j=1;j<arr.length;j++){
             if(arr[i]!=arr[j]){
-            arr[i+1]=arr[j];
             i++;
+            arr[i]=arr[j];
         }
         }
         System.out.println(Arrays.toString(arr));
