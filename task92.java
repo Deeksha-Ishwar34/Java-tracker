@@ -1,6 +1,6 @@
 public class task92 {
     public static void main(String[] args) {
-        int[] arr={1,0,1, 1, 0, 1};
+        int[] arr={1,0,1,1,0,1};
         int k=2;
         subarr(arr,k);
     }
