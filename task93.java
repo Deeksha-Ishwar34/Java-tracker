@@ -16,7 +16,6 @@ public class task93 {
             System.out.println(winsum);
         }
         
-        
-        
+         
     }
 }
