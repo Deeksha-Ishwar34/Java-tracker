@@ -14,8 +14,6 @@ public class task93 {
             winsum+=arr[j];
             winsum-=arr[j-k];
             System.out.println(winsum);
-        }
-        
-         
+        }      
     }
 }
