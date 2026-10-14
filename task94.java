@@ -1,6 +1,6 @@
 public class task94 {
     public static void main(String[] args) {
-        int[] arr={4, 2, 1, 7, 8, 1};
+        int[] arr={4,2, 1, 7, 8, 1};
         int k=2;
         maxsub(arr,k);
     }
