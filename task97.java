@@ -5,7 +5,7 @@ public class task97 {
         System.out.println("Enter your name:- ");
         String s=sc.nextLine();
         StringBuilder sb=new StringBuilder(s);
-        System.out.println("after reversing your name:- "+sb.reverse());
+        System.out.println("After reversing your name:- "+sb.reverse());
         sc.close();
     }
 }
