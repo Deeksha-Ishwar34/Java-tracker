@@ -15,6 +15,6 @@ public class task100 {
              map.put(a, 1);
            }
         }
-        System.out.println(map);
+         System.out.println(map);
     }
 }
