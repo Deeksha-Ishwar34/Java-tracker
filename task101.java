@@ -1,7 +1,7 @@
 import java.util.HashMap;
 public class task101 {
     public static void main(String[] args) {
-        String s="deeksha";
+        String s="Deeksha";
         HashMap<Character,Integer> map=new HashMap<>();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
