@@ -14,5 +14,4 @@ public class task101 {
         }
         System.out.println(map);
     }
-
 }
