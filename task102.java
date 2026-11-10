@@ -1,5 +1,4 @@
 import java.util.HashMap;
-
 public class task102 {
     public static void main(String[] args) {
         String s="deeksha";
