@@ -10,8 +10,7 @@ public class task102 {
             }
             else{
                 map.put(ch, 1);
-            }
-            
+            }   
         }
         int max=0;
         for(char ch:map.keySet()){
