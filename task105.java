@@ -1,6 +1,6 @@
 public class task105 {
     public static void main(String[] args) {
-        String s="deeksha";
+        String s="abciiidecf";
         int k=3;
         max(s,k);
     }
